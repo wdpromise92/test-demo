@@ -1,0 +1,19 @@
+{
+    "include": ["./types"],
+    
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "target": "es5",
+        "module":"ES6",
+        "moduleResolution": "classic",
+        "lib": ["DOM","ES5"],
+        "noEmitHelpers": true,
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "strictNullChecks": false,
+        
+    }
+    
+}
